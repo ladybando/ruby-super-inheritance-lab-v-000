@@ -6,4 +6,8 @@ class ChattyStudent < Student
     puts phrase
   end
 
+  def raise_hand
+
+  end
+
 end
