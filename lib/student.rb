@@ -8,6 +8,8 @@ class Student
   end
 
   def raise_hand
+    @phrase = phrase
+    phrase = "Pick me!"
   end
 
 end
