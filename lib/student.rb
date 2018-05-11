@@ -10,6 +10,7 @@ class Student
   def raise_hand
     @phrase = phrase
     phrase = "Pick me!"
+    puts phrase
   end
 
 end
