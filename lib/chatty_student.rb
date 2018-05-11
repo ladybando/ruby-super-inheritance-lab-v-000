@@ -4,9 +4,8 @@ class ChattyStudent < Student
   end
 
   def raise_hand
-    super
-    @phrase = phrase
-    
+    super + "Pick me!"
+
   end
 
 end
