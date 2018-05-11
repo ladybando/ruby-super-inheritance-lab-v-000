@@ -10,9 +10,9 @@ class ChattyStudent < Student
     super
     @phrase = phrase
     phrase ="Pick me!"
-    10.times{
+    10.times do
       puts phrase
-    }
+    end
   end
 
 end
