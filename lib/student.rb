@@ -3,6 +3,8 @@ class Student
 
   def hello
     @phrase = phrase
+    phrase = "Hey there! I'm so excited to learn stuff."
+    puts phrase
   end
 
 end
