@@ -1,3 +1,4 @@
 class ChattyStudent < Student
-  def phraseend
+  def phrase
+  end
 end
