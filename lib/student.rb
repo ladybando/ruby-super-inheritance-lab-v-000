@@ -1,7 +1,8 @@
 class Student
   attr_accessor :phrase
 
-  def initialize
+  def hello
     @phrase = phrase
   end
+  
 end
