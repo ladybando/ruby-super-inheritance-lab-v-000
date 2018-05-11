@@ -6,6 +6,4 @@ class ChattyStudent < Student
     you don't want any spoilers? Okay well let me just tell you who died..."
   end
 
-  def hello
-  end
 end
