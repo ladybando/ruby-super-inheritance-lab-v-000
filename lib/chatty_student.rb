@@ -1,5 +1,5 @@
 class ChattyStudent < Student
-  def phrase
+  def phrase(phrase)
     super
     @phrase = phrase
   end
